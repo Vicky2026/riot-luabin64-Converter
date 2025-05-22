@@ -4,4 +4,8 @@ riot-luabin64Converter<br>
 
 Luabin64 files for converting League of Legends<br>
 
+Convert.luabin64 to text.lua
+
+Convert.lua back to the game file.luabin64
+
 Teaser coming soon<br>

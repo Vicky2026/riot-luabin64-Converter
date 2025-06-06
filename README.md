@@ -9,6 +9,8 @@ Convert.lua back to the game file.luabin64
 
 .luabin64 is a script file in League of Legends that was used to boot troybin effects files back at the end of S4. In the current S15 season, it is now used to load passive icons above the skill bar, such as Ghost Gallop. We can use these icons to add special effects. If the icon is always there, then the special effects are always there. For example, the pet follows. The following is a troybin and bin call.<br>
 
+It seems that no more than 4 special effect groups are allowed to be added, and the excess is invalid. Of course, you can try whether other heroes support it.
+
 ![Image_1749180947811](https://github.com/user-attachments/assets/957e2bbb-ff50-400c-aaf7-8797e605d9e7)
 
 
